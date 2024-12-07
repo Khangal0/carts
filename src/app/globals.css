@@ -1,0 +1,22 @@
+body{
+  background-color: #212121;
+}
+
+.box{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cartBorder{
+  width: 400px;
+  height: auto;
+  background-color: #e8e8e8;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+
+.img{
+  width: 180px;
+  height: 180px;
+}
